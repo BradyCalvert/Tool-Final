@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImporovedTool-master", "ImporovedTool-master.csproj", "{C428D827-DDD9-3435-D525-4420E8D7939D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImporovedTool-master.Editor", "ImporovedTool-master.Editor.csproj", "{5D8D864C-890D-D13F-6BA5-D0AF2C14B2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C428D827-DDD9-3435-D525-4420E8D7939D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C428D827-DDD9-3435-D525-4420E8D7939D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C428D827-DDD9-3435-D525-4420E8D7939D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C428D827-DDD9-3435-D525-4420E8D7939D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8D864C-890D-D13F-6BA5-D0AF2C14B2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8D864C-890D-D13F-6BA5-D0AF2C14B2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8D864C-890D-D13F-6BA5-D0AF2C14B2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8D864C-890D-D13F-6BA5-D0AF2C14B2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
